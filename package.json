@@ -1,0 +1,19 @@
+{
+  "name": "firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/H4r0l/API-Rest-Firebase.git"
+  },
+  "author": "@H4r0l",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/H4r0l/API-Rest-Firebase/issues"
+  },
+  "homepage": "https://github.com/H4r0l/API-Rest-Firebase#readme"
+}
